@@ -1,4 +1,4 @@
-instal paket terlebih dahulu di terminal python
+##INSTAL PAKET 
 pip install opencv-python
 pip install opencv-contrib-python
 pip install numpy
